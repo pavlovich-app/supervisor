@@ -14,3 +14,5 @@ To synchronize Supervisor configuration files, go to the directory where the upd
 You can create new configuration files for Supervisor simply by adding them to the supervisor directory.
 
 Once launched, all files will be synchronized with the supervisor directory (all files not in this directory will be deleted).
+
+[Exchange rates in Ukraine](https://rate.in.ua) and [Exchange rates in Poland](https://minfin.pl)
